@@ -9,5 +9,5 @@
 
 ### WEBアプリ
 |アプリ名 / アプリリンク|免責事項|
- | ---- | ---- |
+| ---- | ---- |
 | [積立投資可視化ツール](https://dba-finance-feedback.github.io/snowball-map/)|ページを開いたときに表示|
